@@ -1,5 +1,5 @@
 #!/bin/bash
-
+1
 # Run git remote -v command and store the output in a variable
 remote=$(git remote -v)
 
